@@ -1,3 +1,7 @@
+// app.component is the "root" or "bootstrap" component.  When angular launches
+// it places the html rendering of AppComponent into the DOM inside the <app-root> tag
+
+
 // Component needs to be imported from the angular core library
 import { Component } from '@angular/core';
 
